@@ -1,0 +1,16 @@
+#home{
+    height: 250px;
+    width: 950px;
+    margin-top: 150px;
+    margin-left: 300px;
+    font-size: x-large;
+    padding: 10px;
+    border-radius: 10px;
+}
+#home > button {
+    height: 50px;
+    width: 100px;
+    margin-left: 400px;
+    font-size: x-large;
+    margin-top: 15px;
+}
